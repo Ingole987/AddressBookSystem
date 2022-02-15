@@ -14,7 +14,7 @@ namespace AddressBookSystem
             List.Add(addcontact);
         }
         public Dictionary<string, Contact> DictName = new Dictionary<string, Contact>();
-
+        //Uc1 & uc2 Createcontact and Addcontact
         public void StoreContact()
         {
             Console.WriteLine("Enter a unique name to your Addressbook:");
@@ -45,6 +45,7 @@ namespace AddressBookSystem
                 Console.WriteLine("----------------\nADDRESSBOOK :\n----------------\nAddressbook Key: " + element.Key + "\nPerson's Name: " + element.Value.FirstName + " " + element.Value.LastName + "\nAddress: " + element.Value.Address + "\nCity: " + element.Value.City + "\nState: " + element.Value.State + "\nZip Code: " + element.Value.ZipCode + "\nPhone Number: " + element.Value.PhoneNumber + "\nEmail: " + element.Value.Email);
             }
         }
+        // UC3 Editcontact
         public void EditContact()
         {
             Console.WriteLine("Available Addressbooks are:: ");
@@ -88,6 +89,7 @@ namespace AddressBookSystem
             }
 
         }
+        // UC4 DeleteContact
         public void DeleteContact()
         {
             Console.WriteLine("Enter First Name of the Contact you want to Delete:");
