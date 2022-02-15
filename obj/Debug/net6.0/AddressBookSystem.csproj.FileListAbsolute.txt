@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.AssemblyInfo.cs
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\AddressBookSystem.exe
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\AddressBookSystem.deps.json
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\AddressBookSystem.runtimeconfig.json
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\AddressBookSystem.dll
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\ref\AddressBookSystem.dll
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\AddressBookSystem.pdb
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.dll
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\ref\AddressBookSystem.dll
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.pdb
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.genruntimeconfig.cache
