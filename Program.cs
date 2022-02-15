@@ -27,6 +27,11 @@ namespace AddressBookSystem
                     case "4":
                         addressBook.DeleteContact();
                         break;
+                    case "5":
+                        addressBook.DuplicateChecker();
+                        break;
+                    case "6":
+                        return;
                     default:
                         Console.WriteLine("!!! Choose valid operation !!!");
                         break;
