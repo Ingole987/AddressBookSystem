@@ -43,12 +43,15 @@ namespace AddressBookSystem
                         addressBook.SortByPersonName();
                         break;
                     case "10":
+                        addressBook.ChooseSort();
+                        break;
+                    case "11":
                         return;
                     default:
                         Console.WriteLine("!!! Choose valid operation !!!");
                         break;
                 }
-                Console.WriteLine("=================================\nChoose the operation:\n1.Add Another Contact.\n2.View Saved Contacts.\n3.Edit Existing Contact.\n4.Delete Existing Contact.\n5.Duplicate Checker.\n6.Search Person.\n7.FindCity/State.\n8.Find Number Of Persons..\n9.Sort By Person Name.\n10.Exit Address Book Application.\n=================================");
+                Console.WriteLine("=================================\nChoose the operation:\n1.Add Another Contact.\n2.View Saved Contacts.\n3.Edit Existing Contact.\n4.Delete Existing Contact.\n5.Duplicate Checker.\n6.Search Person.\n7.FindCity/State.\n8.Find Number Of Persons..\n9.Sort Entries.\n10.Exit Address Book Application.\n=================================");
                 userInput = Console.ReadLine();
             }
         }
