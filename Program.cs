@@ -31,6 +31,9 @@ namespace AddressBookSystem
                         addressBook.DuplicateChecker();
                         break;
                     case "6":
+                        addressBook.SearchPerson();
+                        break;
+                    case "7":
                         return;
                     default:
                         Console.WriteLine("!!! Choose valid operation !!!");
