@@ -37,6 +37,9 @@ namespace AddressBookSystem
                         addressBook.FindCityState();
                         break;
                     case "8":
+                        addressBook.FindNumOfPerson();
+                        break;
+                    case "9":
                         return;
                     default:
                         Console.WriteLine("!!! Choose valid operation !!!");
