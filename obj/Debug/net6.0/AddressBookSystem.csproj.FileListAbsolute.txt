@@ -13,3 +13,5 @@ C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem
 C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\ref\AddressBookSystem.dll
 C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.pdb
 C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.genruntimeconfig.cache
+C:\Users\prati\source\repos\AddressBookSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prati\source\repos\AddressBookSystem\obj\Debug\net6.0\AddressBookSystem.csproj.CopyComplete
