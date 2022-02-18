@@ -248,5 +248,13 @@ namespace AddressBookSystem
                     break;
             }
         }
+        public void ConvertToText()
+        {
+            FileIO.WriteDataToTxt(DictName);
+        }
+        public void ConvertToCsv()
+        {
+            FileIO.WriteDataToCSV(DictName);
+        }
     }
 }
